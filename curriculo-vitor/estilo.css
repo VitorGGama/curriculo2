@@ -1,0 +1,68 @@
+body h1 {
+  font-size: 50px;
+  background-color: black;
+  color: white;
+  text-align: center
+
+  
+  
+}
+
+.caixa {
+  border: 5px solid;
+  padding: 30px;
+  color: rgb(1, 1, 1);
+  text-align: center;
+}
+
+img {
+  width: 30px; 
+}
+
+.end {
+      width: 200px; 
+      height: 150px;
+      background-color: #ccc;
+      border: 2px solid #000;
+      padding: 30px;
+      margin: 30px;   
+      display: flex;
+      justify-content: center;
+      align-items: center;   
+}
+.contato {
+      background-color:  #ccc;
+      font-size: larger;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+}
+
+body h2 {
+  background-color: #ccc;
+  text-align: center;
+  font-size: 40px;
+}
+.des {
+  background-color: black;
+  font-size: 30px;
+  color: white;
+  text-align: center;
+}
+.Interesse {
+  background-color: #ccc;
+  font-size: 30px;
+  text-align: center;
+}
+.tex {
+  font-size: 20px;
+  text-align: center;
+
+}
+body {
+  padding: 5%;
+  height: 10px;
+}
+a {
+  color: black;
+}
